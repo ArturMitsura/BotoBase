@@ -1,0 +1,31 @@
+<svg width="40.000000" height="37.000000" viewBox="0 0 40 37" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_49_7_0" x1="3.603247" y1="33.378620" x2="35.555405" y2="3.320116" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.221100" stop-color="#F98D1C"/>
+			<stop offset="0.513700" stop-color="#F1423B"/>
+			<stop offset="0.832900" stop-color="#B93088"/>
+			<stop offset="0.994400" stop-color="#9C27B0"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_49_9_0" x1="12.640557" y1="24.827595" x2="26.455357" y2="11.831532" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.221100" stop-color="#F98D1C"/>
+			<stop offset="0.513700" stop-color="#F1423B"/>
+			<stop offset="0.832900" stop-color="#B93088"/>
+			<stop offset="0.994400" stop-color="#9C27B0"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_49_11_0" x1="29.152519" y1="9.338909" x2="30.993355" y2="7.607170" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.221100" stop-color="#F98D1C"/>
+			<stop offset="0.513700" stop-color="#F1423B"/>
+			<stop offset="0.832900" stop-color="#B93088"/>
+			<stop offset="0.994400" stop-color="#9C27B0"/>
+		</linearGradient>
+	</defs>
+	<path id="path" d="M26.89 0L12.2 0C5.44 0 0 5.12 0 11.45L0 25.2C0 31.53 5.44 36.73 12.2 36.73L26.89 36.73C33.64 36.73 39.22 31.53 39.22 25.2L39.22 11.45C39.22 5.12 33.64 0 26.89 0ZM35.52 25.2C35.52 29.62 31.61 33.26 26.89 33.26L12.2 33.26C7.48 33.26 3.61 29.62 3.61 25.2L3.61 11.45C3.61 7.02 7.48 3.39 12.2 3.39L26.89 3.39C31.61 3.39 35.52 7.02 35.52 11.45L35.52 25.2Z" fill="url(#paint_linear_49_7_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path" d="M19.54 9.16C14.14 9.16 9.75 13.26 9.75 18.32C9.75 23.39 14.14 27.49 19.54 27.49C24.95 27.49 29.33 23.39 29.33 18.32C29.33 13.26 24.95 9.16 19.54 9.16ZM19.54 24.06C16.17 24.06 13.42 21.48 13.42 18.32C13.42 15.16 16.17 12.59 19.54 12.59C22.92 12.59 25.66 15.16 25.66 18.32C25.66 21.48 22.92 24.06 19.54 24.06Z" fill="url(#paint_linear_49_9_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="path" d="M30.07 7.25C29.35 7.25 28.76 7.79 28.76 8.47C28.76 9.14 29.35 9.69 30.07 9.69C30.79 9.69 31.37 9.14 31.37 8.47C31.37 7.79 30.79 7.25 30.07 7.25Z" fill="url(#paint_linear_49_11_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
